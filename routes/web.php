@@ -19,8 +19,3 @@ Route::get('/about', function () {
 	return 'about';
 });
 
-Route::get('/contact', function () {
-    return 'contact';
-});
-
-
