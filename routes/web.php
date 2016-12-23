@@ -19,3 +19,8 @@ Route::get('/about', function () {
 	return 'about';
 });
 
+Route::get('/hello', function () {
+	return 'hello';
+});
+
+
